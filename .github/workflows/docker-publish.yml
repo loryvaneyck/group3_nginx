@@ -15,7 +15,7 @@ on:
 
 env:
   # TODO: Change variable to your image's name.
-  IMAGE_NAME: group3_nginx
+  IMAGE_NAME: loeyck/group3_nginx
 
 jobs:
   # Run tests.
